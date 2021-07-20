@@ -1,0 +1,14 @@
+[
+     {
+          "id": "0",
+          "description": "Index", 
+          "route": "/",
+          "renderFile": "/index/index.js"
+     }, 
+     {
+          "id": "1", 
+          "description": "IndexJSON", 
+          "route": "/jsonExample", 
+          "renderFile": "/indexJSON/index.json"
+     }
+]

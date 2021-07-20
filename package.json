@@ -1,0 +1,35 @@
+{
+  "name": "moonwalker-json-api",
+  "version": "1.0.0",
+  "description": "A Simple JSON API creation tool",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "nodemon server/server.js",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonWalkerHTTP/moonwalker-json-api-template.git"
+  },
+  "keywords": [
+    "JSON",
+    "API",
+    "MoonWalker"
+  ],
+  "author": "Samyak Bambole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonWalkerHTTP/moonwalker-json-api-template/issues"
+  },
+  "homepage": "https://github.com/MoonWalkerHTTP/moonwalker-json-api-template#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}
