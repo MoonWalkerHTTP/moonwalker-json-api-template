@@ -1,3 +1,4 @@
 {
-     "message": "Hello JSON World!"
+     "message": "Hello JSON World!",
+     "documentation": "MoonWalker JSON API Documentation - https://github.com/MoonWalkerHTTP/moonwalker-json-api-docs"
 }
